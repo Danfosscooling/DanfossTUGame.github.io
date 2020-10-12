@@ -1,0 +1,15 @@
+{
+"companyName": "Danfoss Cooling",
+"productName": "Danfoss Puzzle Game",
+"productVersion": "1.0",
+"dataUrl": "Danfoss_TU1.data.unityweb",
+"wasmCodeUrl": "Danfoss_TU1.wasm.code.unityweb",
+"wasmFrameworkUrl": "Danfoss_TU1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.10f1"
+}
